@@ -1,7 +1,7 @@
-# msr-associate
+# associate
 
-[![Build Status](https://travis-ci.org/msr/msr-associate.svg?branch=master)](https://travis-ci.org/msr/msr-associate)
-[![Gitter Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/msr/msr-org)
+[![Build Status](https://travis-ci.org/uover822/associate.svg?branch=master)](https://travis-ci.org/uover822/associate)
+[![Gitter Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/uover822/msr-org)
 
 This is a repository in the microservice demonstration system for
 the [Tao of Microservices](//bit.ly/rmtaomicro) book (chapter 9). This
