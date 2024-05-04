@@ -1,0 +1,6 @@
+  /Users/johnharrison/opt/msr/associate/test:
+  total used in directory 16 available 9223372036849287257
+  drwxr-xr-x   4 johnharrison  wheel   128 Nov 24 13:25 .
+  drwxr-xr-x  11 johnharrison  wheel   352 Nov 24 13:22 ..
+  -rw-r--r--   1 johnharrison  wheel  1799 Nov 24 13:25 associate.test.js
+  -rw-r--r--   1 johnharrison  wheel  1804 Nov 24 13:22 descriptor.test.js~

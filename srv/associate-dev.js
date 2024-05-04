@@ -1,0 +1,6 @@
+let Seneca = require('seneca')
+Seneca({tag: 'associate', timeout: 5000})
+  //.test('print')
+  .use('../associate.js')
+  .listen(8005)
+  .client({pin:'role:store', port:8045})

@@ -1,0 +1,12 @@
+let Seneca = require('seneca')
+
+Seneca({tag: 'associate', timeout: 5000})
+  //.test()
+  //.test('print')
+  //.use('monitor')
+  .use('entity')
+  .use('jsonfile-store', {folder: __dirname+'/../../data'})
+  .use('../associate.js')
+  .listen(9005)
+  .client({pin:'role:reason', port:9055})
+  .use('mesh')
